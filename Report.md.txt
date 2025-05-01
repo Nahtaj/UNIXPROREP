@@ -1,0 +1,5 @@
+1. So far, the biggest hurdle I had to face was figuring out how to set up if commands that processed as I needed them to, as I didn't know which -char modifiers to use to achieve the needed results.
+
+2. I was able to solve this by watching a YouTube video that went over what all the different modifiers are, and I spent a few hours testing to figure out which was needed for each if statement. It actually was far simpler than expected, but it took a while because I insisted on using several when it was unnecessary. 
+
+3. Right now, my next step is to finalize testing and, if time allows, add some more features to the program. It is way simpler than I thought it was going to end up being when I pitched the idea, and I feel like it is too little for a major project.
